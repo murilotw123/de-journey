@@ -1,4 +1,4 @@
-# The Shell - Notes
+# The Shell - Notes mit lecture 1
 
 ## O que é Shell?
 - Interface textual para comandar o computador
@@ -97,3 +97,9 @@ echo 3 | sudo tee brightness    # ✅ Funciona (tee roda como root)
 - Use `-h` ou `--help` para ver flags de um comando
 - Use `man comando` para manual completo
 - Aspas `""` ou `''` para argumentos com espaços
+
+# Fundamentals of data engineering f1rst cap
+
+- O que diferencia DE de DA e DS?
+
+- O que é o Data Engineering Lifecycle?

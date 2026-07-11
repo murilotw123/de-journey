@@ -1,0 +1,50 @@
+What is dbt?
+
+dbt is a data tool
+
+dbt is a transformation tool
+
+CLOUD DW -> SNOWFLAKE, REDSHIFT BIGQUERY 
+
+ETL -> EXTRACT TRANSFORM AND LOAD(DW) -> BI AI ML
+
+ELT -> EXTRACT LOAD AND TRANSFORM INTO A DW -> BI AI ML
+
+OBS: ITS NOT A ETL OR ELT TOOL, ITS JUST TO TRANSFORM DATA AFTER OR BEFORE LOADED TO A DW
+
+RAW DATA -> DBT -> TRANSFORMED DATA
+
+WHY DBT?
+MODULARITY 
+TEMPLATING -> JINJA TEMPLATE. 
+CODING
+TESTING
+DEPLOYMENT
+
+CI CD -> DEVOPS
+GITHUB
+CONTINOUS INTEGRATION 
+CONTINOUS DEPLOYMENT
+
+DBT PLATFORMS
+
+dbt core
+cli tool -> open source
+the core engine behind dbt
+you will be managing
+
+dbt cloud 
+is a managed product is built on top of dbt core
+it will be managed by DBT 
+
+dbt canvas
+its a feature available in dbt cloud 
+dbt canvas its a drag and drop feature to transform data and to use dbt
+
+DBT MODELS 
+something with hold your code in MODELS
+populate your dw with transformed data
+dbt uses a dw engine to compute this codes
+
+
+
